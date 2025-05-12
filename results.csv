@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1
+SimpleRNN,0.354,0.1938,0.1906,0.1606
+BiGRU,0.8885,0.8206,0.828,0.8222
+BiLSTM,0.8845,0.8245,0.8549,0.8364

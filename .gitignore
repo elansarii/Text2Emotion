@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+presentation*
+slides*
+data.zip
+.DS_Store
